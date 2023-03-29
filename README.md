@@ -1,7 +1,7 @@
 ![logo](https://github.com/OnlineElite/OnlineElite/blob/main/banner.webp)
 <h1 align="center">Hi 👋, I'm Jamal Boujbari</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-
+<img alt="aminimated image" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onlineelite&label=Profile%20views&color=0e75b6&style=flat" alt="onlineelite" /> </p>
 
 <p align="left"> <a href="https://twitter.com/onlineelite7" target="blank"><img src="https://img.shields.io/twitter/follow/onlineelite7?logo=twitter&style=for-the-badge" alt="onlineelite7" /></a> </p>
