@@ -1,4 +1,4 @@
-![logo](https://github.com/OnlineElie/OnlineElite/blob/main/banner1.jfif)
+![logo]()
 
 <h1 align="center">Hi 👋, I'm Jamal Boujbari</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
